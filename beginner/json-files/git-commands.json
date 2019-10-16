@@ -25,7 +25,7 @@
   },
   {
     "title": "git show",
-    "description": "The git commit command shows one or more objects (blobs, trees, tags and commits)."
+    "description": "The git commit command shows one or more objects (blobs, trees, tags and commits)and also, this command shows the metadata and content changes of the specified commit."
   },
   {
     "title": "git tag",
